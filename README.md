@@ -65,7 +65,7 @@ If you use these materials, please cite:
   title = {Intelligent Video Analytics with Deep Learning},
   year = {2019},
   note = {Guest lecture, KAIST MBA Business Analytics (IM561)},
-  howpublished = {\url{https://github.com/jonghkim/kaist-video-analytics}}
+  howpublished = {\url{https://github.com/jonghkim/intelligent-video-analytics}}
 }
 ```
 
